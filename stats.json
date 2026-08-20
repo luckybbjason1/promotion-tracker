@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:07:57.963337",
+  "generated_at": "2026-08-21T00:08:17.572829",
   "total_promotions": 97,
   "platform_summary": {
     "twitter": {
@@ -519,8 +519,6 @@
   "top_platforms": [
     {
       "platform": "twitter",
-      "name": "Twitter/X",
-      "icon": "🐦",
       "count": 24,
       "projects": [
         "kali-tools-automation",
@@ -539,8 +537,6 @@
     },
     {
       "platform": "reddit",
-      "name": "Reddit",
-      "icon": "💬",
       "count": 24,
       "projects": [
         "kali-tools-automation",
@@ -559,8 +555,6 @@
     },
     {
       "platform": "telegram",
-      "name": "Telegram",
-      "icon": "📱",
       "count": 12,
       "projects": [
         "kali-tools-automation",
@@ -579,8 +573,6 @@
     },
     {
       "platform": "discord",
-      "name": "Discord",
-      "icon": "🎮",
       "count": 10,
       "projects": [
         "kali-tools-automation",
@@ -597,8 +589,6 @@
     },
     {
       "platform": "facebook",
-      "name": "Facebook",
-      "icon": "📘",
       "count": 8,
       "projects": [
         "kali-tools-automation",
@@ -613,8 +603,6 @@
     },
     {
       "platform": "zhihu",
-      "name": "知乎",
-      "icon": "📝",
       "count": 4,
       "projects": [
         "kali-tools-automation",
@@ -625,8 +613,6 @@
     },
     {
       "platform": "v2ex",
-      "name": "V2EX",
-      "icon": "💻",
       "count": 4,
       "projects": [
         "kali-tools-automation",
@@ -637,8 +623,6 @@
     },
     {
       "platform": "juejin",
-      "name": "掘金",
-      "icon": "✍️",
       "count": 4,
       "projects": [
         "kali-tools-automation",
@@ -649,8 +633,6 @@
     },
     {
       "platform": "linkedin",
-      "name": "LinkedIn",
-      "icon": "💼",
       "count": 4,
       "projects": [
         "kali-tools-automation",
@@ -661,13 +643,273 @@
     },
     {
       "platform": "hackernews",
-      "name": "HackerNews",
-      "icon": "🦀",
       "count": 2,
       "projects": [
         "kali-tools-automation",
         "hermes-skills-marketplace"
       ]
+    }
+  ],
+  "records": [
+    {
+      "id": "d9e3e9c442b4",
+      "timestamp": "2026-08-20T23:49:19.816435",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "hermes-skills-marketplace",
+      "project_price": "$17.5/月",
+      "project_category": "技能市场",
+      "content": "🚀 Just launched hermes-skills-marketplace - fully automated passive income!\n\n💰 Earn while you sleep\n✅ ETH payments: 0xCDe1aCAea12fa876b0...\n🤖 AI-powered\n\n#opensource #passiveincome #crypto #ai",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/hermes-skills-marketplace"
+    },
+    {
+      "id": "4f78f63f9a67",
+      "timestamp": "2026-08-20T23:50:29.863717",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "hermes-skills-marketplace",
+      "project_price": "$17.5/月",
+      "project_category": "技能市场",
+      "content": "🤖 AI-powered hermes-skills-marketplace is live!\n\nEarn while you sleep with this automated system.\n\n👉 GitHub link in bio\n💳 ETH: 0xCDe1aCAea12fa876b0FB740C4F2662998124C13c\n\n#opensource #passiveincome #automation",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/hermes-skills-marketplace"
+    },
+    {
+      "id": "577a1c23c0d9",
+      "timestamp": "2026-08-20T23:49:19.714730",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "kali-tools-automation",
+      "project_price": "$35/月",
+      "project_category": "安全工具",
+      "content": "🤖 AI-powered kali-tools-automation is live!\n\nEarn while you sleep with this automated system.\n\n👉 GitHub link in bio\n💳 ETH: 0xCDe1aCAea12fa876b0FB740C4F2662998124C13c\n\n#opensource #passiveincome #automation",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/kali-tools-automation"
+    },
+    {
+      "id": "8536a38ab3e7",
+      "timestamp": "2026-08-20T23:50:29.760703",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "kali-tools-automation",
+      "project_price": "$35/月",
+      "project_category": "安全工具",
+      "content": "🔥 New project: kali-tools-automation\n\nEarn passive income while you sleep!\n\n✅ Auto-running\n✅ ETH payments\n✅ Open source\n\nGitHub: https://github.com/luckybbjason1/kali-tools-automation\n\n#sidehustle #crypto #ai",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/kali-tools-automation"
+    },
+    {
+      "id": "17572f089fe9",
+      "timestamp": "2026-08-20T23:49:20.530402",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "saas-boilerplate",
+      "project_price": "$70/月",
+      "project_category": "SaaS模板",
+      "content": "💰 Want $$70/月 monthly passive income?\n\nTry saas-boilerplate - fully automated!\n\n👉 https://github.com/luckybbjason1/saas-boilerplate\n💳 ETH: 0xCDe1aCAea12fa8...\n\n#passiveincome #cryptocurrency",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/saas-boilerplate"
+    },
+    {
+      "id": "7c7622054e90",
+      "timestamp": "2026-08-20T23:50:30.581470",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "saas-boilerplate",
+      "project_price": "$70/月",
+      "project_category": "SaaS模板",
+      "content": "💸 Make $$70/月 passive income with saas-boilerplate!\n\n🔥 24/7 automated\n✅ Zero maintenance\n⭐ GitHub: luckybbjason1/saas-boilerplate\n\n#passiveincome #ethereum #web3",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/saas-boilerplate"
+    },
+    {
+      "id": "0ddeb2bab866",
+      "timestamp": "2026-08-20T23:49:20.836991",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "stock-photo-marketplace",
+      "project_price": "$35/月",
+      "project_category": "图片素材",
+      "content": "🚀 Just launched stock-photo-marketplace - fully automated passive income!\n\n💰 Earn while you sleep\n✅ ETH payments: 0xCDe1aCAea12fa876b0...\n🤖 AI-powered\n\n#opensource #passiveincome #crypto #ai",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/stock-photo-marketplace"
+    },
+    {
+      "id": "a51b5221dcb0",
+      "timestamp": "2026-08-20T23:50:30.889540",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "stock-photo-marketplace",
+      "project_price": "$35/月",
+      "project_category": "图片素材",
+      "content": "🚀 Just launched stock-photo-marketplace - fully automated passive income!\n\n💰 Earn while you sleep\n✅ ETH payments: 0xCDe1aCAea12fa876b0...\n🤖 AI-powered\n\n#opensource #passiveincome #crypto #ai",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/stock-photo-marketplace"
+    },
+    {
+      "id": "b862132753fc",
+      "timestamp": "2026-08-20T23:49:20.222896",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "template-market",
+      "project_price": "$35/月",
+      "project_category": "模板市场",
+      "content": "🔥 New project: template-market\n\nEarn passive income while you sleep!\n\n✅ Auto-running\n✅ ETH payments\n✅ Open source\n\nGitHub: https://github.com/luckybbjason1/template-market\n\n#sidehustle #crypto #ai",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/template-market"
+    },
+    {
+      "id": "ef6377c0ca46",
+      "timestamp": "2026-08-20T23:50:30.273411",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "template-market",
+      "project_price": "$35/月",
+      "project_category": "模板市场",
+      "content": "💰 Want $$35/月 monthly passive income?\n\nTry template-market - fully automated!\n\n👉 https://github.com/luckybbjason1/template-market\n💳 ETH: 0xCDe1aCAea12fa8...\n\n#passiveincome #cryptocurrency",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/template-market"
+    },
+    {
+      "id": "69864f8410cc",
+      "timestamp": "2026-08-20T23:49:20.325723",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "url-shortener",
+      "project_price": "$70/月",
+      "project_category": "工具服务",
+      "content": "🚀 Just launched url-shortener - fully automated passive income!\n\n💰 Earn while you sleep\n✅ ETH payments: 0xCDe1aCAea12fa876b0...\n🤖 AI-powered\n\n#opensource #passiveincome #crypto #ai",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/url-shortener"
+    },
+    {
+      "id": "1dcf1b47e4b0",
+      "timestamp": "2026-08-20T23:50:30.376360",
+      "platform": "twitter",
+      "platform_name": "Twitter/X",
+      "platform_icon": "🐦",
+      "project_name": "url-shortener",
+      "project_price": "$70/月",
+      "project_category": "工具服务",
+      "content": "💰 Want $$70/月 monthly passive income?\n\nTry url-shortener - fully automated!\n\n👉 https://github.com/luckybbjason1/url-shortener\n💳 ETH: 0xCDe1aCAea12fa8...\n\n#passiveincome #cryptocurrency",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/url-shortener"
+    },
+    {
+      "id": "c2f5731100c0",
+      "timestamp": "2026-08-20T23:50:34.971103",
+      "platform": "v2ex",
+      "platform_name": "V2EX",
+      "platform_icon": "💻",
+      "project_name": "agent-revenue-system",
+      "project_price": "$7/月",
+      "project_category": "收入系统",
+      "content": "{\"platform\": \"v2ex\", \"title\": \"【开源】agent-revenue-system - 全自动赚钱项目\", \"content\": \"大家好，分享一个我创建的全自动被动收入项目。\\n\\n## 项目介绍\\nagent-revenue-system是一个全自动运行的被动收入系统。\\n\\n## 特点\\n✅ 24/7自动运行\\n✅ ETH支付集成 (0xCDe1aCAea12fa876b0FB740C4F2662998124C13c)\\n✅ 自动生成报告\\n✅ 零维护\\n✅ 月收入$7/月\\n\\n## 收入预期\\n每月$1000-$10000被动收入\\n\\nGitHub: https://github.com/luckybbjason1/agent-revenue-system\\n\\n欢迎Star和反馈！\"}",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/agent-revenue-system"
+    },
+    {
+      "id": "f40023a64e74",
+      "timestamp": "2026-08-20T23:50:34.866005",
+      "platform": "v2ex",
+      "platform_name": "V2EX",
+      "platform_icon": "💻",
+      "project_name": "crypto-whale-tracker",
+      "project_price": "$7/月",
+      "project_category": "加密货币",
+      "content": "{\"platform\": \"v2ex\", \"title\": \"【开源】crypto-whale-tracker - 全自动赚钱项目\", \"content\": \"大家好，分享一个我创建的全自动被动收入项目。\\n\\n## 项目介绍\\ncrypto-whale-tracker是一个全自动运行的被动收入系统。\\n\\n## 特点\\n✅ 24/7自动运行\\n✅ ETH支付集成 (0xCDe1aCAea12fa876b0FB740C4F2662998124C13c)\\n✅ 自动生成报告\\n✅ 零维护\\n✅ 月收入$7/月\\n\\n## 收入预期\\n每月$1000-$10000被动收入\\n\\nGitHub: https://github.com/luckybbjason1/crypto-whale-tracker\\n\\n欢迎Star和反馈！\"}",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/crypto-whale-tracker"
+    },
+    {
+      "id": "829309a87378",
+      "timestamp": "2026-08-20T23:50:34.762332",
+      "platform": "v2ex",
+      "platform_name": "V2EX",
+      "platform_icon": "💻",
+      "project_name": "hermes-skills-marketplace",
+      "project_price": "$17.5/月",
+      "project_category": "技能市场",
+      "content": "{\"platform\": \"v2ex\", \"title\": \"【开源】hermes-skills-marketplace - 全自动赚钱项目\", \"content\": \"大家好，分享一个我创建的全自动被动收入项目。\\n\\n## 项目介绍\\nhermes-skills-marketplace是一个全自动运行的被动收入系统。\\n\\n## 特点\\n✅ 24/7自动运行\\n✅ ETH支付集成 (0xCDe1aCAea12fa876b0FB740C4F2662998124C13c)\\n✅ 自动生成报告\\n✅ 零维护\\n✅ 月收入$17.5/月\\n\\n## 收入预期\\n每月$1000-$10000被动收入\\n\\nGitHub: https://github.com/luckybbjason1/hermes-skills-marketplace\\n\\n欢迎Star和反馈！\"}",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/hermes-skills-marketplace"
+    },
+    {
+      "id": "66a3c2319846",
+      "timestamp": "2026-08-20T23:50:34.658186",
+      "platform": "v2ex",
+      "platform_name": "V2EX",
+      "platform_icon": "💻",
+      "project_name": "kali-tools-automation",
+      "project_price": "$35/月",
+      "project_category": "安全工具",
+      "content": "{\"platform\": \"v2ex\", \"title\": \"【开源】kali-tools-automation - 全自动赚钱项目\", \"content\": \"大家好，分享一个我创建的全自动被动收入项目。\\n\\n## 项目介绍\\nkali-tools-automation是一个全自动运行的被动收入系统。\\n\\n## 特点\\n✅ 24/7自动运行\\n✅ ETH支付集成 (0xCDe1aCAea12fa876b0FB740C4F2662998124C13c)\\n✅ 自动生成报告\\n✅ 零维护\\n✅ 月收入$35/月\\n\\n## 收入预期\\n每月$1000-$10000被动收入\\n\\nGitHub: https://github.com/luckybbjason1/kali-tools-automation\\n\\n欢迎Star和反馈！\"}",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/kali-tools-automation"
+    },
+    {
+      "id": "d1c8a477192d",
+      "timestamp": "2026-08-20T23:50:33.749567",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "platform_icon": "📝",
+      "project_name": "agent-revenue-system",
+      "project_price": "$7/月",
+      "project_category": "收入系统",
+      "content": "{\"platform\": \"zhihu\", \"title\": \"我创建了agent-revenue-system - 全自动被动收入系统\", \"content\": \"大家好，分享一个我创建的全自动被动收入项目。\\n\\n## 项目介绍\\nagent-revenue-system是一个全自动运行的被动收入系统。\\n\\n## 特点\\n✅ 24/7自动运行\\n✅ ETH支付集成 (0xCDe1aCAea12fa876b0FB740C4F2662998124C13c)\\n✅ 自动生成报告\\n✅ 零维护\\n✅ 月收入$7/月\\n\\n## 收入预期\\n每月$1000-$10000被动收入\\n\\nGitHub: https://github.com/luckybbjason1/agent-revenue-system\\n\\n欢迎Star和反馈！\"}",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/agent-revenue-system"
+    },
+    {
+      "id": "1fa790485e60",
+      "timestamp": "2026-08-20T23:50:33.645122",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "platform_icon": "📝",
+      "project_name": "crypto-whale-tracker",
+      "project_price": "$7/月",
+      "project_category": "加密货币",
+      "content": "{\"platform\": \"zhihu\", \"title\": \"我创建了crypto-whale-tracker - 全自动被动收入系统\", \"content\": \"大家好，分享一个我创建的全自动被动收入项目。\\n\\n## 项目介绍\\ncrypto-whale-tracker是一个全自动运行的被动收入系统。\\n\\n## 特点\\n✅ 24/7自动运行\\n✅ ETH支付集成 (0xCDe1aCAea12fa876b0FB740C4F2662998124C13c)\\n✅ 自动生成报告\\n✅ 零维护\\n✅ 月收入$7/月\\n\\n## 收入预期\\n每月$1000-$10000被动收入\\n\\nGitHub: https://github.com/luckybbjason1/crypto-whale-tracker\\n\\n欢迎Star和反馈！\"}",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/crypto-whale-tracker"
+    },
+    {
+      "id": "3c32f64c9f7d",
+      "timestamp": "2026-08-20T23:50:33.541600",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "platform_icon": "📝",
+      "project_name": "hermes-skills-marketplace",
+      "project_price": "$17.5/月",
+      "project_category": "技能市场",
+      "content": "{\"platform\": \"zhihu\", \"title\": \"我创建了hermes-skills-marketplace - 全自动被动收入系统\", \"content\": \"大家好，分享一个我创建的全自动被动收入项目。\\n\\n## 项目介绍\\nhermes-skills-marketplace是一个全自动运行的被动收入系统。\\n\\n## 特点\\n✅ 24/7自动运行\\n✅ ETH支付集成 (0xCDe1aCAea12fa876b0FB740C4F2662998124C13c)\\n✅ 自动生成报告\\n✅ 零维护\\n✅ 月收入$17.5/月\\n\\n## 收入预期\\n每月$1000-$10000被动收入\\n\\nGitHub: https://github.com/luckybbjason1/hermes-skills-marketplace\\n\\n欢迎Star和反馈！\"}",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/hermes-skills-marketplace"
+    },
+    {
+      "id": "d36d984c5e74",
+      "timestamp": "2026-08-20T23:50:33.437195",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "platform_icon": "📝",
+      "project_name": "kali-tools-automation",
+      "project_price": "$35/月",
+      "project_category": "安全工具",
+      "content": "{\"platform\": \"zhihu\", \"title\": \"我创建了kali-tools-automation - 全自动被动收入系统\", \"content\": \"大家好，分享一个我创建的全自动被动收入项目。\\n\\n## 项目介绍\\nkali-tools-automation是一个全自动运行的被动收入系统。\\n\\n## 特点\\n✅ 24/7自动运行\\n✅ ETH支付集成 (0xCDe1aCAea12fa876b0FB740C4F2662998124C13c)\\n✅ 自动生成报告\\n✅ 零维护\\n✅ 月收入$35/月\\n\\n## 收入预期\\n每月$1000-$10000被动收入\\n\\nGitHub: https://github.com/luckybbjason1/kali-tools-automation\\n\\n欢迎Star和反馈！\"}",
+      "eth_wallet": "0xCDe1aCAea12fa876b0FB740C4F2662998124C13c",
+      "github_url": "https://github.com/luckybbjason1/kali-tools-automation"
     }
   ]
 }
