@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>推广统计 - Hermes Agent</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d1117; color: #c9d1d9; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        .header { text-align: center; padding: 40px 0; border-bottom: 1px solid #21262d; }
+        .header h1 { font-size: 2.5em; color: #58a6ff; margin-bottom: 10px; }
+        .header .eth { color: #f7931a; font-family: monospace; font-size: 1.2em; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0; }
+        .stat-card { background: #161b22; border: 1px solid #21262d; border-radius: 12px; padding: 25px; text-align: center; }
+        .stat-card .number { font-size: 3em; color: #58a6ff; font-weight: bold; }
+        .stat-card .label { color: #8b949e; margin-top: 10px; }
+        .section { margin: 40px 0; }
+        .section h2 { color: #58a6ff; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #21262d; }
+        .table { width: 100%; border-collapse: collapse; }
+        .table th, .table td { padding: 12px; text-align: left; border-bottom: 1px solid #21262d; }
+        .table th { color: #8b949e; font-weight: 600; }
+        .table tr:hover { background: #161b22; }
+        .badge { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; background: #238636; color: white; }
+        .progress-bar { height: 8px; background: #21262d; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #58a6ff, #3fb950); }
+        .footer { text-align: center; padding: 40px 0; color: #8b949e; border-top: 1px solid #21262d; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 推广统计系统</h1>
+            <p>Hermes Agent 全自动推广追踪</p>
+            <p class="eth">💰 ETH: 0xCDe1aCAea12fa876b0FB740C4F2662998124C13c</p>
+        </div>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="number">96</div>
+                <div class="label">总推广次数</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">15</div>
+                <div class="label">使用平台</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">24</div>
+                <div class="label">推广项目</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">1</div>
+                <div class="label">推广天数</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>📊 平台推广统计</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>平台</th>
+                        <th>推广次数</th>
+                        <th>推广项目</th>
+                        <th>进度</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                <tr>
+                    <td>🐦 Twitter/X</td>
+                    <td><strong>24</strong></td>
+                    <td>12 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 50.0%"></div>
+                        </div>
+                        <small>50%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>💬 Reddit</td>
+                    <td><strong>24</strong></td>
+                    <td>12 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 100%"></div>
+                        </div>
+                        <small>100%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>📱 Telegram</td>
+                    <td><strong>12</strong></td>
+                    <td>12 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 60.0%"></div>
+                        </div>
+                        <small>60%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>🎮 Discord</td>
+                    <td><strong>10</strong></td>
+                    <td>10 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 100%"></div>
+                        </div>
+                        <small>100%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>📘 Facebook</td>
+                    <td><strong>8</strong></td>
+                    <td>8 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 100%"></div>
+                        </div>
+                        <small>100%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>📝 知乎</td>
+                    <td><strong>4</strong></td>
+                    <td>4 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 100%"></div>
+                        </div>
+                        <small>100%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>💻 V2EX</td>
+                    <td><strong>4</strong></td>
+                    <td>4 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 100%"></div>
+                        </div>
+                        <small>100%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>✍️ 掘金</td>
+                    <td><strong>4</strong></td>
+                    <td>4 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 100%"></div>
+                        </div>
+                        <small>100%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>💼 LinkedIn</td>
+                    <td><strong>4</strong></td>
+                    <td>4 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 100%"></div>
+                        </div>
+                        <small>100%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>🦀 HackerNews</td>
+                    <td><strong>2</strong></td>
+                    <td>2 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 100%"></div>
+                        </div>
+                        <small>100%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>📷 Instagram</td>
+                    <td><strong>0</strong></td>
+                    <td>0 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 0.0%"></div>
+                        </div>
+                        <small>0%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>▶️ YouTube</td>
+                    <td><strong>0</strong></td>
+                    <td>0 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 0.0%"></div>
+                        </div>
+                        <small>0%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>🎵 TikTok</td>
+                    <td><strong>0</strong></td>
+                    <td>0 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 0.0%"></div>
+                        </div>
+                        <small>0%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>📰 Medium</td>
+                    <td><strong>0</strong></td>
+                    <td>0 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 0.0%"></div>
+                        </div>
+                        <small>0%</small>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>👨‍💻 Dev.to</td>
+                    <td><strong>0</strong></td>
+                    <td>0 个项目</td>
+                    <td>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 0.0%"></div>
+                        </div>
+                        <small>0%</small>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="section">
+            <h2>📦 项目推广统计</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>项目</th>
+                        <th>推广次数</th>
+                        <th>推广平台</th>
+                        <th>状态</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                <tr>
+                    <td><strong>kali-tools-automation</strong></td>
+                    <td>12</td>
+                    <td>🐦twitter, 💬reddit, 🦀hackernews, 📝zhihu, 💻v2ex, ✍️juejin, 📱telegram, 🎮discord, 💼linkedin, 📘facebook</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+
+                <tr>
+                    <td><strong>hermes-skills-marketplace</strong></td>
+                    <td>12</td>
+                    <td>🐦twitter, 💬reddit, 🦀hackernews, 📝zhihu, 💻v2ex, ✍️juejin, 📱telegram, 🎮discord, 💼linkedin, 📘facebook</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+
+                <tr>
+                    <td><strong>crypto-whale-tracker</strong></td>
+                    <td>11</td>
+                    <td>🐦twitter, 💬reddit, 📝zhihu, 💻v2ex, ✍️juejin, 📱telegram, 🎮discord, 💼linkedin, 📘facebook</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+
+                <tr>
+                    <td><strong>agent-revenue-system</strong></td>
+                    <td>11</td>
+                    <td>🐦twitter, 💬reddit, 📝zhihu, 💻v2ex, ✍️juejin, 📱telegram, 🎮discord, 💼linkedin, 📘facebook</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+
+                <tr>
+                    <td><strong>data-api-service</strong></td>
+                    <td>7</td>
+                    <td>🐦twitter, 💬reddit, 📱telegram, 🎮discord, 📘facebook</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+
+                <tr>
+                    <td><strong>template-market</strong></td>
+                    <td>7</td>
+                    <td>🐦twitter, 💬reddit, 📱telegram, 🎮discord, 📘facebook</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+
+                <tr>
+                    <td><strong>url-shortener</strong></td>
+                    <td>7</td>
+                    <td>🐦twitter, 💬reddit, 📱telegram, 🎮discord, 📘facebook</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+
+                <tr>
+                    <td><strong>api-aggregator</strong></td>
+                    <td>7</td>
+                    <td>🐦twitter, 💬reddit, 📱telegram, 🎮discord, 📘facebook</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+
+                <tr>
+                    <td><strong>saas-boilerplate</strong></td>
+                    <td>6</td>
+                    <td>🐦twitter, 💬reddit, 📱telegram, 🎮discord</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+
+                <tr>
+                    <td><strong>crypto-trading-bot</strong></td>
+                    <td>6</td>
+                    <td>🐦twitter, 💬reddit, 📱telegram, 🎮discord</td>
+                    <td><span class="badge">活跃</span></td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="section">
+            <h2>📅 每日推广趋势</h2>
+            <div id="chart"></div>
+        </div>
+        
+        <div class="footer">
+            <p>🤖 由 Hermes Agent 自动生成</p>
+            <p>生成时间: 2026-08-20T23:50:42.048471</p>
+            <p><a href="https://github.com/luckybbjason1" style="color: #58a6ff;">GitHub</a> | <a href="https://github.com/luckybbjason1/promotion-tracker" style="color: #58a6ff;">源码</a></p>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const ctx = document.getElementById('chart').getContext('2d');
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ["2026-08-20"],
+                datasets: [{
+                    label: '每日推广次数',
+                    data: [96],
+                    borderColor: '#58a6ff',
+                    backgroundColor: 'rgba(88, 166, 255, 0.1)',
+                    fill: true,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: { labels: { color: '#c9d1d9' } }
+                },
+                scales: {
+                    y: { beginAtZero: true, ticks: { color: '#8b949e' }, grid: { color: '#21262d' } },
+                    x: { ticks: { color: '#8b949e' }, grid: { color: '#21262d' } }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

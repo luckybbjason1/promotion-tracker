@@ -1,0 +1,673 @@
+{
+  "generated_at": "2026-08-20T23:50:42.048471",
+  "total_promotions": 96,
+  "platform_summary": {
+    "twitter": {
+      "name": "Twitter/X",
+      "icon": "🐦",
+      "count": 24,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator",
+        "saas-boilerplate",
+        "crypto-trading-bot",
+        "content-generator",
+        "stock-photo-marketplace"
+      ]
+    },
+    "reddit": {
+      "name": "Reddit",
+      "icon": "💬",
+      "count": 24,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator",
+        "saas-boilerplate",
+        "crypto-trading-bot",
+        "content-generator",
+        "stock-photo-marketplace"
+      ]
+    },
+    "hackernews": {
+      "name": "HackerNews",
+      "icon": "🦀",
+      "count": 2,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace"
+      ]
+    },
+    "zhihu": {
+      "name": "知乎",
+      "icon": "📝",
+      "count": 4,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system"
+      ]
+    },
+    "v2ex": {
+      "name": "V2EX",
+      "icon": "💻",
+      "count": 4,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system"
+      ]
+    },
+    "juejin": {
+      "name": "掘金",
+      "icon": "✍️",
+      "count": 4,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system"
+      ]
+    },
+    "telegram": {
+      "name": "Telegram",
+      "icon": "📱",
+      "count": 12,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator",
+        "saas-boilerplate",
+        "crypto-trading-bot",
+        "content-generator",
+        "stock-photo-marketplace"
+      ]
+    },
+    "discord": {
+      "name": "Discord",
+      "icon": "🎮",
+      "count": 10,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator",
+        "saas-boilerplate",
+        "crypto-trading-bot"
+      ]
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "icon": "💼",
+      "count": 4,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system"
+      ]
+    },
+    "facebook": {
+      "name": "Facebook",
+      "icon": "📘",
+      "count": 8,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator"
+      ]
+    },
+    "instagram": {
+      "name": "Instagram",
+      "icon": "📷",
+      "count": 0,
+      "projects": []
+    },
+    "youtube": {
+      "name": "YouTube",
+      "icon": "▶️",
+      "count": 0,
+      "projects": []
+    },
+    "tiktok": {
+      "name": "TikTok",
+      "icon": "🎵",
+      "count": 0,
+      "projects": []
+    },
+    "medium": {
+      "name": "Medium",
+      "icon": "📰",
+      "count": 0,
+      "projects": []
+    },
+    "devto": {
+      "name": "Dev.to",
+      "icon": "👨‍💻",
+      "count": 0,
+      "projects": []
+    }
+  },
+  "project_summary": {
+    "kali-tools-automation": {
+      "count": 12,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "hackernews",
+        "zhihu",
+        "v2ex",
+        "juejin",
+        "telegram",
+        "discord",
+        "linkedin",
+        "facebook"
+      ]
+    },
+    "hermes-skills-marketplace": {
+      "count": 12,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "hackernews",
+        "zhihu",
+        "v2ex",
+        "juejin",
+        "telegram",
+        "discord",
+        "linkedin",
+        "facebook"
+      ]
+    },
+    "crypto-whale-tracker": {
+      "count": 11,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "zhihu",
+        "v2ex",
+        "juejin",
+        "telegram",
+        "discord",
+        "linkedin",
+        "facebook"
+      ]
+    },
+    "agent-revenue-system": {
+      "count": 11,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "zhihu",
+        "v2ex",
+        "juejin",
+        "telegram",
+        "discord",
+        "linkedin",
+        "facebook"
+      ]
+    },
+    "data-api-service": {
+      "count": 7,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord",
+        "facebook"
+      ]
+    },
+    "template-market": {
+      "count": 7,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord",
+        "facebook"
+      ]
+    },
+    "url-shortener": {
+      "count": 7,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord",
+        "facebook"
+      ]
+    },
+    "api-aggregator": {
+      "count": 7,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord",
+        "facebook"
+      ]
+    },
+    "saas-boilerplate": {
+      "count": 6,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord"
+      ]
+    },
+    "crypto-trading-bot": {
+      "count": 6,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord"
+      ]
+    },
+    "content-generator": {
+      "count": 5,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram"
+      ]
+    },
+    "stock-photo-marketplace": {
+      "count": 5,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram"
+      ]
+    },
+    "online-course-platform": {
+      "count": 0,
+      "platforms": []
+    },
+    "plugin-marketplace": {
+      "count": 0,
+      "platforms": []
+    },
+    "api-testing-service": {
+      "count": 0,
+      "platforms": []
+    },
+    "notification-service": {
+      "count": 0,
+      "platforms": []
+    },
+    "ai-saas-tools": {
+      "count": 0,
+      "platforms": []
+    },
+    "api-marketplace": {
+      "count": 0,
+      "platforms": []
+    },
+    "ecommerce-automation": {
+      "count": 0,
+      "platforms": []
+    },
+    "seo-automation": {
+      "count": 0,
+      "platforms": []
+    },
+    "social-media-automation": {
+      "count": 0,
+      "platforms": []
+    },
+    "saas-analytics": {
+      "count": 0,
+      "platforms": []
+    },
+    "auto-ads-system": {
+      "count": 0,
+      "platforms": []
+    },
+    "auto-content-farm": {
+      "count": 0,
+      "platforms": []
+    }
+  },
+  "daily_summary": {
+    "2026-08-20": {
+      "count": 96,
+      "platforms": {
+        "twitter": 24,
+        "reddit": 24,
+        "hackernews": 2,
+        "zhihu": 4,
+        "v2ex": 4,
+        "juejin": 4,
+        "telegram": 12,
+        "discord": 10,
+        "linkedin": 4,
+        "facebook": 8
+      },
+      "projects": {
+        "kali-tools-automation": 12,
+        "hermes-skills-marketplace": 12,
+        "crypto-whale-tracker": 11,
+        "agent-revenue-system": 11,
+        "data-api-service": 7,
+        "template-market": 7,
+        "url-shortener": 7,
+        "api-aggregator": 7,
+        "saas-boilerplate": 6,
+        "crypto-trading-bot": 6,
+        "content-generator": 5,
+        "stock-photo-marketplace": 5
+      }
+    }
+  },
+  "top_projects": [
+    {
+      "name": "kali-tools-automation",
+      "count": 12,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "hackernews",
+        "zhihu",
+        "v2ex",
+        "juejin",
+        "telegram",
+        "discord",
+        "linkedin",
+        "facebook"
+      ]
+    },
+    {
+      "name": "hermes-skills-marketplace",
+      "count": 12,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "hackernews",
+        "zhihu",
+        "v2ex",
+        "juejin",
+        "telegram",
+        "discord",
+        "linkedin",
+        "facebook"
+      ]
+    },
+    {
+      "name": "crypto-whale-tracker",
+      "count": 11,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "zhihu",
+        "v2ex",
+        "juejin",
+        "telegram",
+        "discord",
+        "linkedin",
+        "facebook"
+      ]
+    },
+    {
+      "name": "agent-revenue-system",
+      "count": 11,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "zhihu",
+        "v2ex",
+        "juejin",
+        "telegram",
+        "discord",
+        "linkedin",
+        "facebook"
+      ]
+    },
+    {
+      "name": "data-api-service",
+      "count": 7,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord",
+        "facebook"
+      ]
+    },
+    {
+      "name": "template-market",
+      "count": 7,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord",
+        "facebook"
+      ]
+    },
+    {
+      "name": "url-shortener",
+      "count": 7,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord",
+        "facebook"
+      ]
+    },
+    {
+      "name": "api-aggregator",
+      "count": 7,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord",
+        "facebook"
+      ]
+    },
+    {
+      "name": "saas-boilerplate",
+      "count": 6,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord"
+      ]
+    },
+    {
+      "name": "crypto-trading-bot",
+      "count": 6,
+      "platforms": [
+        "twitter",
+        "reddit",
+        "telegram",
+        "discord"
+      ]
+    }
+  ],
+  "top_platforms": [
+    {
+      "platform": "twitter",
+      "name": "Twitter/X",
+      "icon": "🐦",
+      "count": 24,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator",
+        "saas-boilerplate",
+        "crypto-trading-bot",
+        "content-generator",
+        "stock-photo-marketplace"
+      ]
+    },
+    {
+      "platform": "reddit",
+      "name": "Reddit",
+      "icon": "💬",
+      "count": 24,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator",
+        "saas-boilerplate",
+        "crypto-trading-bot",
+        "content-generator",
+        "stock-photo-marketplace"
+      ]
+    },
+    {
+      "platform": "telegram",
+      "name": "Telegram",
+      "icon": "📱",
+      "count": 12,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator",
+        "saas-boilerplate",
+        "crypto-trading-bot",
+        "content-generator",
+        "stock-photo-marketplace"
+      ]
+    },
+    {
+      "platform": "discord",
+      "name": "Discord",
+      "icon": "🎮",
+      "count": 10,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator",
+        "saas-boilerplate",
+        "crypto-trading-bot"
+      ]
+    },
+    {
+      "platform": "facebook",
+      "name": "Facebook",
+      "icon": "📘",
+      "count": 8,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system",
+        "data-api-service",
+        "template-market",
+        "url-shortener",
+        "api-aggregator"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "name": "知乎",
+      "icon": "📝",
+      "count": 4,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system"
+      ]
+    },
+    {
+      "platform": "v2ex",
+      "name": "V2EX",
+      "icon": "💻",
+      "count": 4,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system"
+      ]
+    },
+    {
+      "platform": "juejin",
+      "name": "掘金",
+      "icon": "✍️",
+      "count": 4,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system"
+      ]
+    },
+    {
+      "platform": "linkedin",
+      "name": "LinkedIn",
+      "icon": "💼",
+      "count": 4,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace",
+        "crypto-whale-tracker",
+        "agent-revenue-system"
+      ]
+    },
+    {
+      "platform": "hackernews",
+      "name": "HackerNews",
+      "icon": "🦀",
+      "count": 2,
+      "projects": [
+        "kali-tools-automation",
+        "hermes-skills-marketplace"
+      ]
+    }
+  ]
+}
